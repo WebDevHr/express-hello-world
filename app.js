@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello Hossein!sdfasdfasd
+      Hello Hossein!
     </section>
   </body>
 </html>
